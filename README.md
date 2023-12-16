@@ -334,7 +334,7 @@ pemesanan.total_pesanan()
    Untuk meningkatkan proyek pemrograman pemesanan makanan menggunakan Python, disarankan untuk fokus pada keamanan pembayaran dan perlindungan data pengguna, memastikan pemeliharaan kode yang baik untuk kemudahan pengembangan, responsivitas antarmuka pengguna, penambahan fitur pencarian atau kategori, integrasi dengan platform pembayaran yang umum digunakan, uji coba pengguna untuk mengidentifikasi potensi perbaikan, kemudahan pembaruan menu, dan penambahan notifikasi pesanan untuk memberi tahu pengguna tentang status pesanan. Dengan demikian, proyek dapat memberikan pengalaman pengguna yang lebih baik dan mengikuti praktik pengembangan perangkat lunak terbaik.
 
 
-## Daftra Pustaka
+## Daftar Pustaka
 [1] [Syahrudin, A. N., & Kurniawan, T. (2018). Input dan Output pada Bahasa Pemrograman Python. Jurnal Dasar Pemrograman Python STMIK, (June 2018), 1–7](https://www.researchgate.net/publication/338385483)
 
 [2] [Sholeh, M., Aji, W. L., Riady, Y., & Qasthari, B. L. (2022). Pengelolaan Pemesanan Menu Makanan Menggunakan Framework Flask Python. JATISI (Jurnal Teknik Informatika Dan Sistem Informasi), 9(2), 916–929.](https://doi.org/10.35957/jatisi.v9i2.1459)
